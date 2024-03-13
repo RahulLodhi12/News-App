@@ -1,6 +1,6 @@
 # Screenshots:
+<img width="946" alt="Screenshot 2024-03-13 114443" src="https://github.com/RahulLodhi12/News-App/assets/111701793/8f961350-9176-44b2-8d32-53b4782d6609">
 <img width="946" alt="Screenshot 2024-03-13 114526" src="https://github.com/RahulLodhi12/News-App/assets/111701793/257b7b1f-633c-4f2a-904a-a8e279ef2915">
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
